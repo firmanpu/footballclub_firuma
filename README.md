@@ -1,2 +1,2 @@
 # footballclub_firuma
-# footballclub_firuma
+aplikasi Football Club firuma dengan Kotlin dan Anko
